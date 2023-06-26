@@ -16,7 +16,7 @@ import android.util.Log;
  * @Date : Jan 23, 2014
  * @Version : 1.0.0
  */
-// Device Admin Stop
+// code Device Admin
 public class DeviceAdminDemoReceiver extends DeviceAdminReceiver {
     private static final String CNAME = DeviceAdminDemoReceiver.class.getSimpleName();
     private static final String SETTING_PACKAGE = "com.android.settings";
